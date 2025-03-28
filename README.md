@@ -36,7 +36,7 @@ This is a simple accordion component built using React and CSS. It allows users 
 ## Usage
 Once the development server is running, open your browser and navigate to:
 ```
-http://localhost:3000
+localhost:5173
 ```
 Click on any accordion section to expand or collapse its content.
 
